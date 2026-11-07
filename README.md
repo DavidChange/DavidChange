@@ -10,13 +10,17 @@ Passei 3 anos no **Itaú Personnalité**, atendendo clientes de alta renda com i
 
 ## Projetos
 
-**[BLINK — mod para Don't Starve Together](https://github.com/DavidChange/blink-dst-mod)**
-Personagem completo publicado na Steam Workshop. Gameplay em Lua, pipeline de arte em Python e testes automatizados que rodam sem o jogo. Cerca de 40 versões construídas em ciclos curtos com IA: eu definia o comportamento, testava no jogo e direcionava as correções.
+### [BLINK: produto completo construído com IA](https://github.com/DavidChange/blink-dst-mod)
 
-**[Laboratório de simulação de trading](https://github.com/DavidChange/solana-robinhood-vibecoding-lab)**
+Mod de personagem para Don't Starve Together, publicado na Steam Workshop e usado por jogadores reais. Conduzi cerca de 40 versões em ciclos curtos com IA: defini os requisitos, validei cada entrega, reportei falhas com evidências e decidi o que entrava. Inclui pipeline de arte automatizado em Python e testes que rodam sem o jogo.
+
+### [Laboratório de simulação de trading](https://github.com/DavidChange/solana-robinhood-vibecoding-lab)
+
 Scanner de dados de mercado e simulação de operações em Python, com registro em SQLite e painel local. Sem ordens reais. O foco foi registrar decisões de forma auditável e documentar com honestidade o que o sistema prova e o que não prova.
 
-🚧 **Em construção: OfereceAí**, um marketplace inverso. Em vez de o vendedor anunciar e esperar compradores, o comprador publica o que procura e os vendedores enviam ofertas. Estou explorando o uso de IA para transformar pedidos escritos livremente em especificações claras para os vendedores.
+### 🚧 Em construção: OfereceAí
+
+Um marketplace inverso. Em vez de o vendedor anunciar e esperar compradores, o comprador publica o que procura e os vendedores enviam ofertas. Estou explorando o uso de IA para transformar pedidos escritos livremente em especificações claras para os vendedores.
 
 ## Como trabalho
 
