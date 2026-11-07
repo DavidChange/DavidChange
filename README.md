@@ -20,7 +20,7 @@ Scanner de dados de mercado e simulação de operações em Python, com registro
 
 ### 🚧 Em construção: OfereceAí
 
-Um marketplace inverso. Em vez de o vendedor anunciar e esperar compradores, o comprador publica o que procura e os vendedores enviam ofertas. Estou explorando o uso de IA para transformar pedidos escritos livremente em especificações claras para os vendedores.
+Um marketplace inverso. Em vez de o vendedor anunciar e esperar compradores, o comprador publica o que procura e os vendedores enviam ofertas. 
 
 ## Como trabalho
 
