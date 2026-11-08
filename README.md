@@ -18,9 +18,9 @@ Mod de personagem para Don't Starve Together, publicado na Steam Workshop e usad
 
 Scanner de dados de mercado e simulação de operações em Python, com registro em SQLite e painel local. Sem ordens reais. O foco foi registrar decisões de forma auditável e documentar com honestidade o que o sistema prova e o que não prova.
 
-### 🚧 Em construção: OfereceAí
+### [OfereceAí: marketplace inverso (MVP)](https://github.com/DavidChange/OfereceAi)
 
-Um marketplace inverso. Em vez de o vendedor anunciar e esperar compradores, o comprador publica o que procura e os vendedores enviam ofertas. 
+O comprador publica o que procura e os lojistas enviam propostas. MVP navegável com perfis de comprador, lojista e administrador, comparação de propostas e mensagens. Conduzi o produto da ideia à versão 3.0 com desenvolvimento assistido por IA, documentando cada decisão.
 
 ## Como trabalho
 
