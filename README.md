@@ -14,13 +14,13 @@ Passei 3 anos no **Itaú Personnalité**, atendendo clientes de alta renda com i
 
 Mod de personagem para Don't Starve Together, publicado na Steam Workshop e usado por jogadores reais. Conduzi cerca de 40 versões em ciclos curtos com IA: defini os requisitos, validei cada entrega, reportei falhas com evidências e decidi o que entrava. Inclui pipeline de arte automatizado em Python e testes que rodam sem o jogo.
 
-### [Laboratório de simulação de trading](https://github.com/DavidChange/solana-robinhood-vibecoding-lab)
-
-Scanner de dados de mercado e simulação de operações em Python, com registro em SQLite e painel local. Sem ordens reais. O foco foi registrar decisões de forma auditável e documentar com honestidade o que o sistema prova e o que não prova.
-
 ### [OfereceAí: marketplace inverso (MVP)](https://github.com/DavidChange/OfereceAi)
 
 O comprador publica o que procura e os lojistas enviam propostas. MVP navegável com perfis de comprador, lojista e administrador, comparação de propostas e mensagens. Conduzi o produto da ideia à versão 3.0 com desenvolvimento assistido por IA, documentando cada decisão.
+
+### [Laboratório de simulação de trading](https://github.com/DavidChange/solana-robinhood-vibecoding-lab)
+
+Scanner de dados de mercado e simulação de operações em Python, com registro em SQLite e painel local. Sem ordens reais. O foco foi registrar decisões de forma auditável e documentar com honestidade o que o sistema prova e o que não prova.
 
 ## Como trabalho
 
@@ -28,4 +28,4 @@ Começo pelo problema, construo uma primeira versão rápida, testo e itero. Doc
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/david-alexander-vi%C3%A7oso-ascen%C3%A7%C3%A3o/) · davalexdata@gmail.com
+[LinkedIn](https://www.linkedin.com/in/david-alexander-vi%C3%A7oso-ascen%C3%A7%C3%A3o/) · [davalexdata@gmail.com](mailto:davalexdata@gmail.com)
